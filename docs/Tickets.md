@@ -1,7 +1,7 @@
 # Lemon Clicker Bug Report
 
 **Name: Eric Murphy**,
-**Tickets solved: 1** <!-- e.g. 1, 2, 3, 5, 6 (at least five) -->
+**Tickets solved: 2** <!-- e.g. 1, 2, 3, 5, 6 (at least five) -->
 
 
 ---
