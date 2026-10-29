@@ -23,4 +23,4 @@ Traced back to:
 Buggy code:
   const response = await fetch("/api/stat");
 Confirming the fix
-  After inputting given timestamp and score into leaderboard.json, menu screen now displays correct stats information.
+  After inputting given timestamp and score into leaderboard.json, menu screen now displays stat information.
